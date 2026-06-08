@@ -22,8 +22,9 @@
 
 ## Связь со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-написать_мне-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alina_21070)
-[![Gmail](https://img.shields.io/badge/Gmail-написать_мне-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igtisanovaalina4@gmail.com)
+[![Telegram] (https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)" (https://t.me/Alina_21070)
+[![Gmail] (https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)" (mailto:igtisanovaalina4@gmail.com)
+[![Vkontakte] (https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)" (https://vk.ru/igtisanovaalinka)
 
 ## Обо мне
 
