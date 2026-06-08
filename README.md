@@ -20,6 +20,8 @@
 Моё портфолио с учебными и практическими работами:  
 [qa-portfolio](https://github.com/Alina2107/qa-portfolio)
 
+[![Telegram](https://img.shields.io/badge/Telegram-написать_мне-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alina_21070)
+
 ## Обо мне
 
 Я постепенно развиваюсь в тестировании ПО и учусь применять знания на практике.  
