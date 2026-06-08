@@ -20,7 +20,10 @@
 Моё портфолио с учебными и практическими работами:  
 [qa-portfolio](https://github.com/Alina2107/qa-portfolio)
 
+## Связь со мной
+
 [![Telegram](https://img.shields.io/badge/Telegram-написать_мне-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alina_21070)
+[![Gmail](https://img.shields.io/badge/Gmail-написать_мне-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igtisanovaalina4@gmail.com)
 
 ## Обо мне
 
